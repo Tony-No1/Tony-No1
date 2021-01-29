@@ -42,7 +42,7 @@ $InitPHP_conf['db']['default']['db_type'] = 0; // 0-单个服务器，1-读写�
 $InitPHP_conf['db']['default'][0]['host'] = '127.0.0.1:3306'; // 主机
 $InitPHP_conf['db']['default'][0]['username'] = 'root'; // 数据库用户名
 $InitPHP_conf['db']['default'][0]['password'] = ''; // 数据库密码
-$InitPHP_conf['db']['default'][0]['database'] = 'wh_miniadmin'; // 数据库
+$InitPHP_conf['db']['default'][0]['database'] = 'miniadmin'; // 数据库
 $InitPHP_conf['db']['default'][0]['charset'] = 'utf8'; // 数据库编码   
 $InitPHP_conf['db']['default'][0]['pconnect'] = 0; // 是否持久链接
 
